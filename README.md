@@ -43,4 +43,4 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 ## Disclaimer
 
-This is a hackathon demo project and is not intended for production use. Use at your own risk..
+This is a hackathon demo project and is not intended for production use. Use at your own risk.
